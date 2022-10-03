@@ -9,3 +9,12 @@ const handler: Handler = async (event, context) => {
 };
 
 export { handler };
+
+module.exports.addRating = (event, context, callback) => {
+  callback(null, {
+    statusCode: 201,
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+    },
+  });
+};
