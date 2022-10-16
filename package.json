@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
+    "local":"netlify functions:serve",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview"
