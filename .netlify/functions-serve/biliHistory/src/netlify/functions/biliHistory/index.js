@@ -26,6 +26,14 @@ module.exports = __toCommonJS(biliHistory_exports);
 // netlify/functions/biliHistory/doing.json
 var doing_default = [
   {
+    title: "\u52A0\u52D2\u6BD4\u6D77\u76D7 1",
+    cover: "https://m.ykimg.com/058400005E75E9A9A9F97D0D32425FF3"
+  },
+  {
+    title: "\u738B\u671D 2",
+    cover: "https://i0.hdslb.com/bfs/bangumi/image/25e8a7fe191e0665a21b0b8291040bce258df229.png@220w_280h.webp"
+  },
+  {
     title: "\u5723\u8BDE\u4E4B\u543BSS+ plus",
     cover: "https://i0.hdslb.com/bfs/bangumi/0e2656a8ba9f754b4ac8de132a13e6c0aa188468.jpg@268w_358h.webp"
   },
@@ -62,6 +70,10 @@ var doing_default = [
     cover: "https://i0.hdslb.com/bfs/bangumi/image/31202ecba405d3682b701348c7de75f9b414739e.png@220w_280h.webp"
   },
   {
+    title: "\u4F17\u795E\u4E4B\u5730",
+    cover: "https://i0.hdslb.com/bfs/bangumi/image/49249fd8bfcc1a461a1529debe14c7c4e176e4e9.png@220w_280h.webp"
+  },
+  {
     title: "\u56FD\u738B\u6392\u540D",
     cover: "https://i0.hdslb.com/bfs/bangumi/image/8aead7650fb3ded88f24654b7b66823169cb9a8c.png@220w_280h.webp"
   }
@@ -85,6 +97,18 @@ var todo_default = [
 
 // netlify/functions/biliHistory/done.json
 var done_default = [
+  {
+    title: "\u4E70\u51F6\u62CD\u4EBA",
+    cover: "https://imgdb.cc/view/photo/s_ratio_poster/public/p1361412292.jpg"
+  },
+  {
+    title: "\u53F2\u5BC6\u65AF\u592B\u5987",
+    cover: "https://m.ykimg.com/058400005E766A91A9F97D0D32883A63"
+  },
+  {
+    title: "\u5927\u732B",
+    cover: "https://i0.hdslb.com/bfs/bangumi/image/ad53b731909d8bab1841357767bcc3e4347aa9d3.png@220w_280h.webp"
+  },
   {
     title: "\u5723\u8BDE\u4E4B\u543BSS",
     cover: "https://i0.hdslb.com/bfs/bangumi/0cf19817077713b638513b1636e4d86989bff9c7.jpg@220w_280h.webp"
