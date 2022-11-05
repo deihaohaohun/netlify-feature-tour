@@ -32,6 +32,12 @@ var account_default = [
     keywords: []
   },
   {
+    name: "\u5929\u6D25\u6570\u5B57\u9632\u75AB",
+    account: "17695525322",
+    password: "youdou3932",
+    keywords: []
+  },
+  {
     name: "QQ:9526",
     account: "952682493",
     password: "youdou3932.com",
