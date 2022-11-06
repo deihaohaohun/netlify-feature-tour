@@ -1,7 +1,7 @@
 {
   "version": 3,
   "sources": ["../../../../Desktop/projects/netlify-serverless-apis/netlify/functions/account/index.ts"],
-  "sourceRoot": "C:/Users/28075/AppData/Local/Temp/tmp-6000-1BfdB3nlh6Fv",
+  "sourceRoot": "C:/Users/28075/AppData/Local/Temp/tmp-8968-Fj9rgdY3QIxr",
   "sourcesContent": ["import accounts from \"./account.json\";\r\nimport { Handler } from \"@netlify/functions\";\r\n\r\nconst handler: Handler = async (event, context) => {\r\n  const headers = {\r\n    \"Access-Control-Allow-Origin\": \"*\",\r\n    \"Access-Control-Allow-Headers\": \"Content-Type\",\r\n    \"Access-Control-Allow-Methods\": \"GET, POST, PUT, DELETE\",\r\n  };\r\n\r\n  return {\r\n    statusCode: 200,\r\n    headers,\r\n    body: JSON.stringify(accounts),\r\n  };\r\n};\r\n\r\nexport { handler };\r\n"],
   "mappings": ";;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAGA,IAAM,UAAmB,OAAO,OAAO,YAAY;AACjD,QAAM,UAAU;AAAA,IACd,+BAA+B;AAAA,IAC/B,gCAAgC;AAAA,IAChC,gCAAgC;AAAA,EAClC;AAEA,SAAO;AAAA,IACL,YAAY;AAAA,IACZ;AAAA,IACA,MAAM,KAAK,UAAU,eAAQ;AAAA,EAC/B;AACF;",
   "names": []

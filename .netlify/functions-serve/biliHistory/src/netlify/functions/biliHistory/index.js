@@ -26,8 +26,16 @@ module.exports = __toCommonJS(biliHistory_exports);
 // netlify/functions/biliHistory/doing.json
 var doing_default = [
   {
-    title: "\u52A0\u52D2\u6BD4\u6D77\u76D7 1",
-    cover: "https://m.ykimg.com/058400005E75E9A9A9F97D0D32425FF3"
+    title: "\u52A0\u52D2\u6BD4\u6D77\u76D73\uFF1A\u4E16\u754C\u7684\u5C3D\u5934",
+    cover: "https://puui.qpic.cn/vcover_vt_pic/0/dluq5thl5pcvtl51585139382433/260"
+  },
+  {
+    title: "\u52A0\u52D2\u6BD4\u6D77\u76D74\uFF1A\u60CA\u6D9B\u602A\u6D6A",
+    cover: "https://puui.qpic.cn/vcover_vt_pic/0/m63g578728dv56w1585271374/260"
+  },
+  {
+    title: "\u52A0\u52D2\u6BD4\u6D77\u76D75\uFF1A\u6B7B\u65E0\u5BF9\u8BC1",
+    cover: "https://puui.qpic.cn/vcover_vt_pic/0/00jxecd5him5kmn1585271336/260"
   },
   {
     title: "\u738B\u671D 2",
@@ -97,6 +105,14 @@ var todo_default = [
 
 // netlify/functions/biliHistory/done.json
 var done_default = [
+  {
+    title: "\u52A0\u52D2\u6BD4\u6D77\u76D71\uFF1A\u9B3C\u76D7\u8239\u9B54\u5492",
+    cover: "https://puui.qpic.cn/vcover_vt_pic/0/6bxb2yc7mskrdoz1585278155/260"
+  },
+  {
+    title: "\u52A0\u52D2\u6BD4\u6D77\u76D72\uFF1A\u4EA1\u7075\u7684\u5B9D\u85CF",
+    cover: "https://puui.qpic.cn/vcover_vt_pic/0/7qgeyfoqp4ks3dl1585278171/260"
+  },
   {
     title: "\u4E70\u51F6\u62CD\u4EBA",
     cover: "https://imgdb.cc/view/photo/s_ratio_poster/public/p1361412292.jpg"
